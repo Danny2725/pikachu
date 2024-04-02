@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\difficult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\difficult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\check2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\check1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\normal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\normal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\difficult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\difficult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\check2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pikachuPhamVanMinh\\check1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +70,196 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 16,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "normal.cpp",
-              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\normal.cpp",
-              "RelativeDocumentMoniker": "normal.cpp",
-              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\normal.cpp",
-              "RelativeToolTip": "normal.cpp",
-              "ViewState": "AQIAACQBAAAAAAAAAAAAwCEBAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T08:25:14.988Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "pikachuPhamVanMinh.vcxproj.user",
-              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh.vcxproj.user",
-              "RelativeDocumentMoniker": "pikachuPhamVanMinh.vcxproj.user",
-              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh.vcxproj.user",
-              "RelativeToolTip": "pikachuPhamVanMinh.vcxproj.user",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-04-02T08:25:11.348Z",
-              "EditorCaption": ""
+              "Title": "normal.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\normal.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\normal.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\normal.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\normal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:19:10.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "struct.cpp",
-              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\struct.cpp",
-              "RelativeDocumentMoniker": "struct.cpp",
-              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\struct.cpp",
-              "RelativeToolTip": "struct.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Title": "console.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\console.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\console.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\console.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\console.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T08:23:03.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T09:19:10.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "utility.h",
-              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\utility.h",
-              "RelativeDocumentMoniker": "utility.h",
-              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\utility.h",
-              "RelativeToolTip": "utility.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-02T08:23:01.358Z",
+              "DocumentIndex": 1,
+              "Title": "utility.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\utility.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\utility.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\utility.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\utility.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:19:10.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "utility.cpp",
-              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\utility.cpp",
-              "RelativeDocumentMoniker": "utility.cpp",
-              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\utility.cpp",
-              "RelativeToolTip": "utility.cpp",
-              "ViewState": "AQIAADMBAAAAAAAAAAAAAL0AAAA/AAAA",
+              "Title": "struct.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\struct.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\struct.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\struct.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\struct.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T08:19:11.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T09:19:10.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "difficult.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\difficult.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\difficult.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\difficult.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\difficult.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:19:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "check2.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check2.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\check2.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check2.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\check2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:19:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "check1.cpp",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check1.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\check1.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check1.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\check1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:19:10.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "utility.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\utility.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\utility.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\utility.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\utility.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "struct.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\struct.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\struct.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\struct.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\struct.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "normal.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\normal.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\normal.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\normal.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\normal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "difficult.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\difficult.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\difficult.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\difficult.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\difficult.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "console.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\console.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\console.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\console.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\console.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "check2.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check2.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\check2.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check2.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\check2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "check1.h",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check1.h",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\check1.h",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\check1.h",
+              "RelativeToolTip": "pikachuPhamVanMinh\\check1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T09:19:10.506Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\Source.cpp",
-              "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\Source.cpp",
-              "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\Source.cpp",
+              "RelativeDocumentMoniker": "pikachuPhamVanMinh\\Source.cpp",
+              "ToolTip": "C:\\Users\\quant\\OneDrive\\M\u00E1y t\u00EDnh\\pikachuPhamVanMinh\\pikachuPhamVanMinh\\Source.cpp",
+              "RelativeToolTip": "pikachuPhamVanMinh\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T08:18:47.31Z",
+              "WhenOpened": "2024-04-02T09:19:10.508Z",
               "EditorCaption": ""
             }
           ]
